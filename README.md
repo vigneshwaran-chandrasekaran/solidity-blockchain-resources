@@ -6,7 +6,7 @@ Tutorials
 
 | Plugin | README |
 | ------ | ------ |
-| Tutorialspoint | [https://www.tutorialspoint.com/solidity/index.htm][PlDb] |
+| Tutorialspoint | [https://www.tutorialspoint.com/solidity/index.htm]<https://www.tutorialspoint.com/solidity/index.htm> |
 | solidity-by-example | [https://solidity-by-example.org/][PlGh] |
 | w3schools.io | [https://www.w3schools.io/blockchain/solidity-tutorials/][PlGd] |
 | edureka | [https://www.edureka.co/blog/solidity-tutorial/][PlOd] |
