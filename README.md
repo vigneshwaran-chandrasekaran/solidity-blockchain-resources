@@ -42,7 +42,7 @@ Tutorials
 ## Blockchain Tamil Youtube Channels
 
 | Channel Name |
-| ------ | ------ | ------ |
+| ------ |
 | [Crypto Query Tamil - CQT] |
 | [Crypto Metaverse Tamil] |
 | [Blockchain Master] |
