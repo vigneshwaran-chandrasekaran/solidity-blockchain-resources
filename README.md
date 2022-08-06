@@ -37,3 +37,20 @@ Tutorials
 [Will it Scale]: <https://www.youtube.com/c/WillitScale>
 [EatTheBlocks]: <https://www.youtube.com/c/EatTheBlocks>
 [Dapp University]: <https://www.youtube.com/c/DappUniversity>
+
+
+## Blockchain Tamil Youtube Channels
+
+| Channel Name |
+| ------ | ------ | ------ |
+| [Crypto Query Tamil - CQT] |
+| [Crypto Metaverse Tamil] |
+| [Blockchain Master] |
+| [DinuUd] | 
+| [Crypto Tamil] | 
+
+[Crypto Query Tamil - CQT]: <https://www.youtube.com/c/CryptoQueryTamilCQT>
+[Crypto Metaverse Tamil]: <https://www.youtube.com/c/CryptoTamilan>
+[Blockchain Master]: <https://www.youtube.com/c/BlockchainMaster>
+[DinuUd]: <https://www.youtube.com/channel/UCyjgvoo1tMsUQyeS6Ry0igg>
+[Crypto Tamil]: <https://www.youtube.com/c/CryptoTamil>
