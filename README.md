@@ -22,7 +22,7 @@ Tutorials
 
 ## Solidity Video Tutorials
 
-| Plugin | README | lugin | README |
+| Channel Link | Course Title | Course Link | Channel Link  |
 | ------ | ------ | ------ | ------ |
 | [HashLips NFG] | Learn Solidity basics |  <https://www.youtube.com/playlist?list=PLvfQp12V0hS0-3AjKWAve5QHy3W6lOfO8> | <https://www.youtube.com/c/HashLipsNFT> |
 | [HashLips NFG] | Solidity smart contracts |  <https://www.youtube.com/playlist?list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo> | <https://www.youtube.com/c/HashLipsNFT> |
@@ -32,8 +32,8 @@ Tutorials
 | Dapp University | Solidity for Beginners (0.4) |  <https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu> | <https://www.youtube.com/c/DappUniversity> |
 | Will it Scale | Solidity (0.4) |  <https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg> | <https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA> |
 
-[HashLips NFG]: <[http://angularjs.org](https://www.youtube.com/c/HashLipsNFT)>
-[Smart Contract Programmer]: <[http://angularjs.org](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)>
+[HashLips NFG]: <http://angularjs.org](https://www.youtube.com/c/HashLipsNFT>
+[Smart Contract Programmer]: <http://angularjs.org](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA>
 [AngularJS1]: <http://angularjs.org>
 [AngularJS2]: <http://angularjs.org>
 [AngularJS3]: <http://angularjs.org>
