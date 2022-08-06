@@ -22,8 +22,8 @@ Tutorials
 
 ## Solidity Video Tutorials
 
-| Plugin | README |
-| ------ | ------ |
+| Plugin | README | lugin | README |
+| ------ | ------ | ------ | ------ |
 | HashLips NFG | Learn Solidity basics |  <https://www.youtube.com/playlist?list=PLvfQp12V0hS0-3AjKWAve5QHy3W6lOfO8> | <https://www.youtube.com/c/HashLipsNFT> |
 | HashLips NFG | Solidity smart contracts |  <https://www.youtube.com/playlist?list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo> | <https://www.youtube.com/c/HashLipsNFT> |
 | Smart Contract Programmer | Solidity 0.8 |  <https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p> | <https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA> |
