@@ -48,9 +48,36 @@ Tutorials
 | [Blockchain Master] |
 | [DinuUd] | 
 | [Crypto Tamil] | 
+| [Crypto Tamizha] | 
+| [Tamil Crypto Tech] | 
+| [Mac Tech Tamil] | 
+| [Anand Chennai2London] | 
+| [Crypto Kavi] | 
+| [Tamil Crypto School] | 
+| [Crypto City Tamil] | 
+| [Crypto Pugal] | 
+| [Crypto Knowledge Tamil] | 
+| [Crypto Query Tamil - CQT] | 
+| [CryptoCurrency Tamil] | 
+| [Bitbns Tamil தமிழ்] | 
+| [Tamil Crypto] | 
 
 [Crypto Query Tamil - CQT]: <https://www.youtube.com/c/CryptoQueryTamilCQT>
 [Crypto Metaverse Tamil]: <https://www.youtube.com/c/CryptoTamilan>
 [Blockchain Master]: <https://www.youtube.com/c/BlockchainMaster>
 [DinuUd]: <https://www.youtube.com/channel/UCyjgvoo1tMsUQyeS6Ry0igg>
 [Crypto Tamil]: <https://www.youtube.com/c/CryptoTamil>
+
+[Crypto Tamizha]: <https://www.youtube.com/c/CryptoTamizha/videos>
+[Tamil Crypto Tech]: <https://www.youtube.com/c/TamilCryptotech>
+[Mac Tech Tamil]: <https://www.youtube.com/c/MacTech18>
+[Anand Chennai2London]: <https://www.youtube.com/c/AnandsLifestyleTips>
+[Crypto Kavi]: <https://www.youtube.com/c/CryptoKavi>
+[Tamil Crypto School]: <https://www.youtube.com/c/TamilCryptoSchool>
+[Crypto City Tamil]: <https://www.youtube.com/channel/UC5I-df1jVbL3q_WOh6OP05A>
+[Crypto Pugal]: <https://www.youtube.com/c/CryptoPugal>
+[Crypto Knowledge Tamil]: <https://www.youtube.com/channel/UCxPH_9TZEWJwCueIaT1pd3A>
+[Crypto Query Tamil - CQT]: <https://www.youtube.com/c/CryptoQueryTamilCQT>
+[CryptoCurrency Tamil]: <https://www.youtube.com/c/CryptoCurrencyTamil>
+[Bitbns Tamil தமிழ்]: <https://www.youtube.com/channel/UCEpw7OG973a0fsQFzPKkPCw>
+[https://www.youtube.com/channel/UCBgL_GTV29mzhIPgbqaf2og]: <Tamil Crypto>
