@@ -80,4 +80,4 @@ Tutorials
 [Crypto Query Tamil - CQT]: <https://www.youtube.com/c/CryptoQueryTamilCQT>
 [CryptoCurrency Tamil]: <https://www.youtube.com/c/CryptoCurrencyTamil>
 [Bitbns Tamil தமிழ்]: <https://www.youtube.com/channel/UCEpw7OG973a0fsQFzPKkPCw>
-[https://www.youtube.com/channel/UCBgL_GTV29mzhIPgbqaf2og]: <Tamil Crypto>
+[Tamil Crypto]: <https://www.youtube.com/channel/UCBgL_GTV29mzhIPgbqaf2og>
