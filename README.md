@@ -62,6 +62,13 @@ Tutorials
 | [Bitbns Tamil தமிழ்] | 
 | [Tamil Crypto] | 
 
+## Usefull Links
+
+| Website |
+| ------ |
+| <https://www.youtube.com/c/CryptoQueryTamilCQT> |
+| [Crypto Metaverse Tamil] |
+
 [Crypto Query Tamil - CQT]: <https://www.youtube.com/c/CryptoQueryTamilCQT>
 [Crypto Metaverse Tamil]: <https://www.youtube.com/c/CryptoTamilan>
 [Blockchain Master]: <https://www.youtube.com/c/BlockchainMaster>
