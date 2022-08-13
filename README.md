@@ -66,8 +66,13 @@ Tutorials
 
 | Website |
 | ------ |
-| <https://www.youtube.com/c/CryptoQueryTamilCQT> |
-| [Crypto Metaverse Tamil] |
+| <https://etherscan.io> |
+| <https://solscan.io/> |
+| <https://solscan.io/account/11111111111111111111111111111111#solTransfers> |
+| <https://chainlist.org/> |
+| <https://www.aax.com/en-US/> |
+| <https://www.coinbase.com/home> |
+
 
 [Crypto Query Tamil - CQT]: <https://www.youtube.com/c/CryptoQueryTamilCQT>
 [Crypto Metaverse Tamil]: <https://www.youtube.com/c/CryptoTamilan>
