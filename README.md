@@ -16,10 +16,7 @@ Tutorials
 
 | Title | Links |
 | ------ | ------ |
-| Storage, Memory, Stack, Calldata | 
-<https://youtu.be/cURL_Z6S6xM?t=150> <br /> 
-<https://youtu.be/jA_ykc6woig> <br />
-<https://youtu.be/nGZgapBep3M>  |
+| Storage, Memory, Stack, Calldata | <https://youtu.be/cURL_Z6S6xM?t=150> <br /> <https://youtu.be/jA_ykc6woig> <br /><https://youtu.be/nGZgapBep3M>  |
 
 ## Ethereum
 
