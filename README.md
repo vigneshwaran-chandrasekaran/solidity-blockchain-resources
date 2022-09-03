@@ -16,7 +16,7 @@ Tutorials
 
 | Plugin | README |
 | ------ | ------ |
-| Storage, Memory, Stack, Calldata | <https://youtu.be/cURL_Z6S6xM?t=150> <https://youtu.be/cURL_Z6S6xM?t=150> |
+| Storage, Memory, Stack, Calldata | <https://youtu.be/cURL_Z6S6xM?t=150> <br /> <https://youtu.be/cURL_Z6S6xM?t=150> |
 
 ## Ethereum
 
