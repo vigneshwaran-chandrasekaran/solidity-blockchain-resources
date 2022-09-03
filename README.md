@@ -12,6 +12,12 @@ Tutorials
 | edureka | <https://www.edureka.co/blog/solidity-tutorial/> |
 
 
+## Solidity concepts
+
+| Plugin | README |
+| ------ | ------ |
+| Storage, Memory, Stack, Calldata | <https://youtu.be/cURL_Z6S6xM?t=150> <https://youtu.be/cURL_Z6S6xM?t=150> |
+
 ## Ethereum
 
 Tutorials
