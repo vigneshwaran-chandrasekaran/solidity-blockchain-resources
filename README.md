@@ -32,10 +32,13 @@ Memory
 - Variables defined inside the function
 - Non permanent
 - Less expensive   
+- function paramenter either must be memory or calldata
 
 Calldata
 - available only for external and public functions
 - Immutable / constant
+- Calldata takes less gas compare with memory
+- function paramenter either must be memory or calldata
 
 ## Ethereum
 
