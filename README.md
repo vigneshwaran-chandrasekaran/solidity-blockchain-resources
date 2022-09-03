@@ -25,12 +25,14 @@ Storage
 - Holds state variables
 - Permanent (store in blockchain), like HDD in CPU
 - Pay more gas and more expensive
+
 Memory
 - Temporary, inside funciton, like RAM in CPU
 - Store Local Variable
 - Variables defined inside the function
 - Non permanent
 - Less expensive   
+
 Calldata
 - available only for external and public functions
 - Immutable / constant
