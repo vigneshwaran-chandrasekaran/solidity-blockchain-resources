@@ -4,7 +4,7 @@
 
 Tutorials
 
-| Plugin | README |
+| Title | Links |
 | ------ | ------ |
 | Tutorialspoint | <https://www.tutorialspoint.com/solidity/index.htm> |
 | solidity-by-example | <https://solidity-by-example.org/> |
@@ -14,9 +14,12 @@ Tutorials
 
 ## Solidity concepts
 
-| Plugin | README |
+| Title | Links |
 | ------ | ------ |
-| Storage, Memory, Stack, Calldata | <https://youtu.be/cURL_Z6S6xM?t=150> <br /> <https://youtu.be/cURL_Z6S6xM?t=150> |
+| Storage, Memory, Stack, Calldata | 
+<https://youtu.be/cURL_Z6S6xM?t=150> <br /> 
+<https://youtu.be/jA_ykc6woig> <br />
+<https://youtu.be/nGZgapBep3M>  |
 
 ## Ethereum
 
