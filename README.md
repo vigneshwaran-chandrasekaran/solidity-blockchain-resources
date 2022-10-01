@@ -124,3 +124,5 @@ Tutorials
 [CryptoCurrency Tamil]: <https://www.youtube.com/c/CryptoCurrencyTamil>
 [Bitbns Tamil தமிழ்]: <https://www.youtube.com/channel/UCEpw7OG973a0fsQFzPKkPCw>
 [Tamil Crypto]: <https://www.youtube.com/channel/UCBgL_GTV29mzhIPgbqaf2og>
+[Tamil Crypto Tv]: <https://www.youtube.com/channel/UC-d2U6ZtQJSYMkSbw4yam4w/videos>
+
