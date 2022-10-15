@@ -90,6 +90,8 @@ Tutorials
 | [Bitbns Tamil தமிழ்] | 
 | [Tamil Crypto] | 
 | [Tamil Crypto Tv] | 
+| [Web 3 World] |
+| [Miss Crypto] |
 
 ## Usefull Links
 
@@ -126,4 +128,5 @@ Tutorials
 [Bitbns Tamil தமிழ்]: <https://www.youtube.com/channel/UCEpw7OG973a0fsQFzPKkPCw>
 [Tamil Crypto]: <https://www.youtube.com/channel/UCBgL_GTV29mzhIPgbqaf2og>
 [Tamil Crypto Tv]: <https://www.youtube.com/channel/UC-d2U6ZtQJSYMkSbw4yam4w/videos>
-
+[Web 3 World]: <https://www.youtube.com/channel/UCU4_cmd5WNDtaU3N5xwbk-Q>
+[Miss Crypto]: <https://www.youtube.com/c/MissCrypto>
